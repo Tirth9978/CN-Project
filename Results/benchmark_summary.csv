@@ -1,0 +1,7 @@
+case_id,concurrent_clients,failure_rate,parallel_conns,time_sec,useful_bytes,total_bytes,redundant_bytes,throughput_mbps
+Part1_Sequential,1,0.0,1,5.12,61400000,61405000,5000,95.93
+Part1_Sequential,8,0.0,1,38.45,491200000,491240000,40000,102.2
+Part1_Concurrent,8,0.0,1,12.1,491200000,491280000,80000,324.76
+Part2_Case1_Stateless,4,0.1,1,28.6,61400000,178060000,116660000,17.17
+Part2_Case2_Stateful,4,0.1,1,8.9,61400000,68154000,6754000,55.19
+Part2_Case2_Enhanced,4,0.1,4,3.42,61400000,65200000,3800000,143.62

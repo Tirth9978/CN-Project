@@ -1,0 +1,7 @@
+concurrent_clients,single_threaded_mbps,multi_threaded_mbps,single_threaded_time_sec,multi_threaded_time_sec
+1,95.93,95.8,5.12,5.13
+2,98.4,182.45,9.98,5.38
+4,101.15,268.9,19.42,7.3
+8,102.2,324.76,38.45,12.1
+12,102.8,338.2,57.25,17.35
+16,103.1,341.5,76.1,23.0

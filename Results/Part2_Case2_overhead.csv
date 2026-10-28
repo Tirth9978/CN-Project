@@ -1,0 +1,8 @@
+failure_probability,case1_stateless_overhead_pct,case2_stateful_overhead_pct,case1_stateless_time_sec,case2_stateful_time_sec
+0.0,0.02,0.01,5.13,5.14
+0.05,88.6,1.25,9.37,5.72
+0.1,190.0,2.4,28.6,6.8
+0.15,294.63,3.85,43.85,7.95
+0.2,418.73,5.2,62.97,9.15
+0.3,698.21,7.9,119.8,11.8
+0.4,1138.44,10.45,223.27,14.9
